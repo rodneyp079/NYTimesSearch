@@ -23,7 +23,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/RPzOC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='imgur.com/a/RPzOC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
